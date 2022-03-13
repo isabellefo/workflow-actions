@@ -1,3 +1,3 @@
-# workflow-actions
+# Workflow
 
-Testing GitHub tool for CI/CD Pipeline
+Testing GitHub Actions for CI/CD Pipeline
